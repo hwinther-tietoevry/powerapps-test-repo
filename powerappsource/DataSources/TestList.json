@@ -1,0 +1,44 @@
+[
+  {
+    "ApiId": "/providers/microsoft.powerapps/apis/shared_sharepointonline",
+    "CdpRevision": {
+      "BaseUrl": "/",
+      "LastChangedTimeString": "2022-12-15T17:53:17.6240000Z",
+      "RevisionNumber": 1
+    },
+    "ConnectedDataSourceInfoNameMapping": {
+      "{Attachments}": "Vedlegg",
+      "{Attachments}@odata.type": "{Attachments} ({Attachments}@odata.type)",
+      "{FilenameWithExtension}": "Filnavn med filtype",
+      "{FullPath}": "Fullstendig bane",
+      "{HasAttachments}": "Har vedlegg",
+      "{Identifier}": "Identifikator",
+      "{IsFolder}": "ErMappe",
+      "{Link}": "Koble til elementet",
+      "{ModerationComment}": "Kommentarer knyttet til innholdsgodkjenningen for dette listeelementet",
+      "{ModerationStatus}": "Status for innholdsgodkjenning",
+      "{Name}": "Navn",
+      "{Path}": "Mappebane",
+      "{Thumbnail}": "Thumbnail",
+      "{TriggerWindowEndToken}": "Utløservindu for avslutt token",
+      "{TriggerWindowStartToken}": "Utløservindu for start token",
+      "{VersionNumber}": "Versjonsnummer",
+      "Author": "Created By",
+      "Author#Claims": "Created By Claims",
+      "ComplianceAssetId": "Compliance Asset Id",
+      "Created": "Created",
+      "Editor": "Modified By",
+      "Editor#Claims": "Modified By Claims",
+      "ID": "ID",
+      "Modified": "Modified",
+      "TestField": "TestField",
+      "Title": "Title"
+    },
+    "DatasetName": "https://qywq.sharepoint.com/sites/PowerTest",
+    "EncodeDataset": true,
+    "IsSampleData": false,
+    "IsWritable": true,
+    "Name": "TestList",
+    "Type": "ConnectedDataSourceInfo"
+  }
+]

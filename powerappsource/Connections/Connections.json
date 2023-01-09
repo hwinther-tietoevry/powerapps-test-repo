@@ -1,0 +1,27 @@
+{
+  "0827cf03-fdb4-4648-889d-da71b6015632": {
+    "connectionParameters": {
+      "sku": "Enterprise"
+    },
+    "connectionRef": {
+      "displayName": "SharePoint",
+      "iconUri": "https://connectoricons-prod.azureedge.net/u/juanq/gateway/greyhound/3000.150.11/1.0.1613.3116/sharepointonline/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_sharepointonline"
+    },
+    "datasets": {
+      "https://qywq.sharepoint.com/sites/PowerTest": {
+        "dataSources": {
+          "TestList": {
+            "tableName": "97a4a5a2-fb86-4a03-ac42-391b29bacc45"
+          }
+        }
+      }
+    },
+    "dataSources": [
+      "TestList"
+    ],
+    "dependencies": {},
+    "dependents": [],
+    "id": "0827cf03-fdb4-4648-889d-da71b6015632"
+  }
+}
